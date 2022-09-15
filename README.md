@@ -29,3 +29,6 @@ mkdocs new .\
 https://squidfunk.github.io/mkdocs-material/
 
 git commit -am ":sparkles: Initial config"
+
+
+
